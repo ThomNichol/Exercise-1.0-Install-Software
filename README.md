@@ -1,7 +1,7 @@
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Thomas Lee Nicholson Jr.
 
 ## My gamedev.stackexchange.com user number is:
 173812
